@@ -1,0 +1,11 @@
+{
+  "name": "junior-dev-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.5.6",
+    "@vercel/node": "^1.15.4",
+    "typescript": "^5.3.3"
+  }
+}
